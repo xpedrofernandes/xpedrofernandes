@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Library System (PHP, mySQL, HTML and CSS)</b>
-  - [Library System](https://github.com/xpedrofernandes/LibrarySystemPHP/tree/main)
+  - [Library System](https://github.com/xpedrofernandes/LibrarySystemPHP)
 - <b>Crossy Road Game (C)</b>
   - [Crossy Road](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b></i>
 
