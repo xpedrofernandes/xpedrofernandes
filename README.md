@@ -10,8 +10,7 @@
 <h2>👨‍🎓 College Coding Exams:</h2>
 
 - <b>Python</b>
-  - [Test1](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Test2](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Test1 and Test 2](https://github.com/xpedrofernandes/Python-Tests)
 - <b>C</b>
   - [Test1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</i>
   - [Test2](https://github.com/joshmadakor1/Algorithms-Practice)
