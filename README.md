@@ -5,7 +5,7 @@
 - <b>Library System (PHP, mySQL, HTML and CSS)</b>
   - [Library System](https://github.com/xpedrofernandes/LibrarySystemPHP)
 - <b>Crossy Road Game (C)</b>
-  - [Crossy Road](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b></i>
+  - [Crossy Road](https://github.com/xpedrofernandes/CrossyRoadGame)</i>
 
 <h2>👨‍🎓 College Coding Exams:</h2>
 
