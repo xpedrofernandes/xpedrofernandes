@@ -13,7 +13,7 @@
   - [Test1](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Test2](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>C</b>
-  - [Test1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Test1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</i>
   - [Test2](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
