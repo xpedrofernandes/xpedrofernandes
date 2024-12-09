@@ -10,11 +10,10 @@
 <h2>👨‍🎓 College Coding Exams:</h2>
 
 - <b>Python</b>
-  - [Test1 and Test 2](https://github.com/xpedrofernandes/Python-Tests)
+  - [Test 1 and Test 2](https://github.com/xpedrofernandes/Python-Tests)
 - <b>C</b>
-  - [Test1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</i>
-  - [Test2](https://github.com/joshmadakor1/Algorithms-Practice)
-
+  - [Test 1 and Test 2](https://github.com/xpedrofernandes/CTests)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
