@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pedro! <br/><a href="https://www.linkedin.com/in/xpedrofernandes/">2nd-Year Computer Science Student @ TU Dublin</a></h1>
+<h1>Hi, I'm Pedro! <br/><a href="https://www.linkedin.com/in/xpedrofernandes/">3rd-Year Computer Science Student @ TU Dublin</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
