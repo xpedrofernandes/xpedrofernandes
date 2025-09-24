@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>AI Image Classifier (Python, TensorFlow (MobileNetV2), Streamlit, and OpenCV)</b>
+  - [AI Image Classifier](https://github.com/xpedrofernandes/AIImageClassifier)
 - <b>Library System (PHP, mySQL, HTML and CSS)</b>
   - [Library System](https://github.com/xpedrofernandes/LibrarySystemPHP)
 - <b>Crossy Road Game (C)</b>
